@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+  }
+a{
+    color: inherit !important;
+    text-decoration: unset !important;
+}
+.joinButton, .joinButton:active,.joinButton:visited, .joinButton:focus, .joinButton:focus-within, .calendarBtn,  .Coworking .btn{
+    background-color: black !important;
+    color: yellow !important;
+    border: none !important;
+    padding: 10px;
+    box-shadow: 5px 10px 10px -5px rgba(0, 0, 0, 0.1), 3px 5px 5px -5px rgba(0, 0, 0, 0.03);
+}
+.joinButtonSubmit{
+    background-color: yellow !important;
+    color: black !important;
+}
+.joinButtonSubmit:hover{
+    background-color: black !important;
+    color: yellow !important;
+}
+button font, a font{
+   display: contents;
+    vertical-align: initial !important;
+}
